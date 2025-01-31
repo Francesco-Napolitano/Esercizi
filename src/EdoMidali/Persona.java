@@ -33,4 +33,7 @@ public class Persona {
         this.setNome(persona.getNome());
         this.setCognome(persona.getCognome());
     }
+
+    public void saluta() {
+    }
 }
